@@ -73,7 +73,7 @@ export const latestprojects = [
     {
       image: "/projects/project_1.png",
       title: "Podcash",
-      label: "is India's first marketplace that connects guests, podcasters and advertisers under one roof with a simple goal to make your podcast self sustained",
+      label: "is India's first marketplace that connects guests, podcasters and advertisers under one roof...",
       description:
         "We will need your support to grow this community of podcasters and bring a new wave in the podcasting Industry.",
       link: "https://www.podcash.com",
@@ -81,7 +81,7 @@ export const latestprojects = [
     {
       image: "/projects/project_2.png",
       title: "Coding Ninjas SRM",
-      label: "is a one stop  for understanding data structures and building algorithms from scratch",
+      label: "is a one stop  for understanding data structures and building algorithms from scratch...",
       description:
         "Our core programs are intensive, immersive training that transforms people into outstanding developers.",
       link: "https://codingninjasatsrm.com/",
@@ -89,7 +89,7 @@ export const latestprojects = [
     {
       image: "/projects/project_3.png",
       title: "Covid Yoddha",
-      label: "s an NGO that is determined to choose humanity and believes that the sole meaning of life is to serve others in need.",
+      label: "s an NGO that is determined to choose humanity and believes that the sole meaning of life is to serve others in need...",
       description:
         "It aims to provide everyone around us with the support necessary during these unprecedented times and give them a ray of hope not to give up. We welcome you into our family of covidYODHA, and we hope that together, we can overcome this darkness and bring light into our world again.",
       link: "",
