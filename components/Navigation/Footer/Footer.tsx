@@ -14,7 +14,7 @@ function Footer() {
           </div>
           <div className="mt-5 flex flex-col items-center md:flex-row md:space-x-8 lg:mt-24 lg:space-x-12">
             <a
-              href="mailto:test@gmail.com"
+              href="mailto:abhinavmaharana.23@gmail.com"
               className="hover:bg-secondary w-full rounded-full bg-white px-16 py-2 text-center text-black transition-all hover:text-white md:w-auto lg:py-1 lg:text-[2rem]"
             >
               Contact Me
