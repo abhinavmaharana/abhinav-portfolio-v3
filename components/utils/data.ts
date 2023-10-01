@@ -16,3 +16,22 @@ export const menu = [
         link: "#Experience",
       },
 ]
+
+export const projects = [
+    {
+      label: "Web Development",
+      image: "/illustrations/web.png",
+    },
+    {
+      label: "CSS",
+      image: "/illustrations/css.png",
+    },
+    {
+      label: "HTML",
+      image: "/illustrations/html.png",
+    },
+    {
+      label: "JAVA",
+      image: "/illustrations/java.png",
+    },
+];
