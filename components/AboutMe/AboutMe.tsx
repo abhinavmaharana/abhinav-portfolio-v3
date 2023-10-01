@@ -3,6 +3,7 @@
 /* eslint-disable react/no-unescaped-entities */
 import React from 'react';
 import { motion, useTransform, useScroll } from 'framer-motion';
+import Achievements from '../Achievements/Achievements';
 
 function AboutMe(): JSX.Element {
   // Use the correct type for scrollY
@@ -14,7 +15,7 @@ function AboutMe(): JSX.Element {
   return (
     <div
       id="about"
-      className="w-full py-[50px] xl:-mb-5 md:py-[100px] bg-black  relative overflow-hidden"
+      className="w-full py-[50px] md:py-[100px] bg-black  relative overflow-hidden"
     >
       {/* BACKGROUND ELEMENTS START */}
       <div className="sec-2-bg-gradient" />
@@ -89,6 +90,9 @@ function AboutMe(): JSX.Element {
                     type and scrambled it
         </motion.div>
         {/* PARAGRAPH END */}
+      </div>
+      <div>
+        <Achievements />
       </div>
     </div>
   );

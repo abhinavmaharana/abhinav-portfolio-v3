@@ -137,3 +137,26 @@ export const contacts = [
     link: "https://www.github.com",
   },
 ];
+
+export const achievements = [
+  {
+      id: 1,
+      year: 40,
+      description: "SUCCESSFULLY<br />COMPLETED<br />PROJECTS",
+  },
+  {
+      id: 2,
+      year: 1,
+      description: "YEARS OF<br />EXPERIENCE",
+  },
+  {
+      id: 3,
+      year: 25,
+      description: "TECHNOLOGIES",
+  },
+  {
+      id: 4,
+      year: 70,
+      description: "COMMUNITY<br />POSTS",
+  },
+];
