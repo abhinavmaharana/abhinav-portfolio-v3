@@ -67,4 +67,50 @@ export const skills = [
         "Experience with Text-to-speech encoders/decoders (speech synthesis) & Voice Cloning",
       ],
     },
+];
+
+export const latestprojects = [
+    {
+      image: "/projects/project_1.png",
+      title: "Podcash",
+      label: "is India's first marketplace that co...",
+      description:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus ultricies dictum. Curabitur porta mi id nulla porta eleifend. Proin quis",
+      link: "https://www.podcash.com",
+    },
+    {
+      image: "/projects/project_2.png",
+      title: "Coding Ninjas SRM",
+      label: "is a one stop  for understanding  st.....",
+      description:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus ultricies dictum. Curabitur porta mi id nulla porta eleifend. Proin quis",
+      link: "https://www.podcash.com",
+    },
+    {
+      image: "/projects/project_3.png",
+      title: "Covid Yoddha",
+      label: "is an NGO that is determined to choose humanity",
+      description:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus ultricies dictum. Curabitur porta mi id nulla porta eleifend. Proin quis",
+      link: "https://www.podcash.com",
+    },
+  ];
+  
+export const features = [
+    {
+      label: "Visual Design",
+      color: "#EAB308",
+      icon: "/icons/visual_design.png",
+    },
+  
+    {
+      label: "Case Study",
+      color: "#A9E5FF",
+      icon: "/icons/case_study.png",
+    },
+    {
+      label: "Projects",
+      color: "#D1D5DB",
+      icon: "/icons/projects.png",
+    },
   ];
