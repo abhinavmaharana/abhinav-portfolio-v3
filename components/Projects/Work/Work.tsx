@@ -5,7 +5,7 @@ import { projects } from "@/components/utils/data";
 
 function Work() {
   return (
-    <div id="Projects" className="mx-auto max-w-7xl p-5 lg:p-12 lg:py-24">
+    <div id="Projects" className="mx-auto p-5 lg:p-52 lg:py-24 ">
       <FadeVertical y={100}>
         <div className="text-center text-[2rem] font-black lg:text-[4rem]">
           PORTFOLIO
