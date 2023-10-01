@@ -8,7 +8,12 @@ import {
     animate,
     useInView,
 } from "framer-motion";
-function NumInc({ num }) {
+
+interface NumIncProps {
+    num: number;
+}
+
+function NumInc({ num }: NumIncProps): JSX.Element {
     const [once, setOnce] = useState(false);
     const count = useMotionValue(0);
     const rounded = useTransform(count, (latest) => Math.round(latest));
