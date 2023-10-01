@@ -113,4 +113,27 @@ export const features = [
       color: "#D1D5DB",
       icon: "/icons/projects.png",
     },
-  ];
+];
+
+export const contacts = [
+  {
+    icon: "/icons/dribbble.png",
+    link: "https://www.dribbble.com",
+  },
+  {
+    icon: "/icons/upwork.png",
+    link: "https://www.upwork.com",
+  },
+  {
+    icon: "/icons/youtube.png",
+    link: "https://www.youtube.com",
+  },
+  {
+    icon: "/icons/linkedin.png",
+    link: "https://www.linkedin.com",
+  },
+  {
+    icon: "/icons/github.png",
+    link: "https://www.github.com",
+  },
+];

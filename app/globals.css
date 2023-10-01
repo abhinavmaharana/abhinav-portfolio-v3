@@ -35,3 +35,32 @@ body {
 .shadow-text {
   text-shadow: 0px 4px 55px #c47dfb;
 }
+
+.sec-2-bg-gradient {
+  position: absolute;
+  width: 398px;
+  height: 398px;
+  left: 217px;
+  top: 457px;
+  background: linear-gradient(
+      236.22deg,
+      #ff3c47 -3.32%,
+      #bcee50 15.86%,
+      #32e2ed 73.4%
+  );
+  filter: blur(212px);
+}
+
+.sec-2-p-e-1 {
+  width: 358px;
+  right: 40px;
+  top: 500;
+  position: absolute;
+}
+
+.sec-2-p-e-2 {
+  width: 300px;
+  top: 700px;
+  left: 1050px;
+  position: absolute;
+}
