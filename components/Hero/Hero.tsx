@@ -22,7 +22,7 @@ function Hero() {
               <div className="text-[3rem] lg:text-[8rem]">ABHNAV</div>
             </div>
           </div>
-          <div className="revalia max-w-[370px] text-white md:translate-x-[40%] md:rotate-[-90deg] md:text-primary lg:translate-x-[40%] lg:text-[1.25rem] 2xl:translate-x-[50%] mr-12">
+          <div className="revalia max-w-[370px] text-white md:translate-x-[40%] md:rotate-[-90deg] md:text-primary lg:translate-x-[40%] lg:text-[1.25rem] 2xl:translate-x-[50%] 2xl:mr-12">
             I make websites and provide solutions to real life problems using ML
             & AI.
           </div>
