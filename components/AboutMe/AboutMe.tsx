@@ -52,10 +52,9 @@ function AboutMe(): JSX.Element {
             viewport={{ once: true }}
             className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative"
         >
-            Lorem Ipsum is simply dummy text of the printing and
-            typesetting industry. Lorem Ipsum has been the industry's
-            standard dummy text ever since the 1500s, when an unknown
-            printer took a galley of type and scrambled it
+            As an Artificial Intelligence and Machine Learning enthusiast, I am passionate about creating innovative solutions to real-time problems in the world.
+
+            With hands-on experience in creating projects like the Virtual Body Measurement System and Harry Potter Invisible Cloak using Computer Vision, I thrive in finding creative ways to use Machine Learning in technology.
         </motion.div>
         {/* PARAGRAPH END */}
         {/* PARAGRAPH START */}
@@ -66,10 +65,9 @@ function AboutMe(): JSX.Element {
             viewport={{ once: true }}
             className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative"
         >
-            Lorem Ipsum is simply dummy text of the printing and
-            typesetting industry. Lorem Ipsum has been the industry's
-            standard dummy text ever since the 1500s, when an unknown
-            printer took a galley of type and scrambled it
+            Previously, I worked as a Machine Learning Analyst at Styloria, where I strengthened the tech infrastructure of the startup through various projects. My recent work on the Virtual Body Measurement System using TensorFlow showcases my expertise in the field.
+
+            I have interned at NUS and HPE with the help of Corporate Gurukul as an academic intern, where I learned extensively about the Internet of Things with Machine Learning. I have also completed a remote internship at TCS ion, where I automated identification and recognition of handwritten text using Machine Learning.
         </motion.div>
         {/* PARAGRAPH END */}
         {/* PARAGRAPH START */}
@@ -80,14 +78,11 @@ function AboutMe(): JSX.Element {
             viewport={{ once: true }}
             className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative"
         >
-            Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry's
-                    standard dummy text ever since the 1500s, when an unknown
-                    printer took a galley of type and scrambled itLorem Ipsum is
-                    simply dummy text of the printing and typesetting industry.
-                    Lorem Ipsum has been the industry's standard dummy text ever
-                    since the 1500s, when an unknown printer took a galley of
-                    type and scrambled it
+            In addition, I have experience in Full-stack web development and have created a live e-commerce website called Maniawalker using React and Node.js. I have also served as a Teaching Assistant at Corporate Gurukul and NTU Singapore for AIYA, where I mentored students from class 8 to 12 in the field of AI.
+
+            I worked as an Associate Software Engineer at Dentsu World Services. I enjoy sharing my knowledge and guiding others in learning new programming languages.
+
+            I am interested in opportunities in Data Science, Machine Learning Analysis, Full-stack web development.
         </motion.div>
         {/* PARAGRAPH END */}
       </div>
